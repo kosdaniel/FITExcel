@@ -1,3 +1,0 @@
-/home/damdaniel/pa2/ukoly/fitexcel/cmake-build-debug/CMakeFiles/fitexcel.dir
-/home/damdaniel/pa2/ukoly/fitexcel/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/damdaniel/pa2/ukoly/fitexcel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
